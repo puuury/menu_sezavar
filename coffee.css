@@ -1,0 +1,86 @@
+.item .espersso {
+    width: 100%;
+    /* height: 40%; */
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    padding: 5px;
+
+        
+}
+.line {
+    width: 100%;
+    /* width: 10vh; */
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid green; */
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 14px;
+    gap: 15px;
+}
+.inline {
+    display: flex;
+    width: 100%;
+    gap: 25px;
+}
+.inline2 {
+    font-size: 18px;
+}
+.nameitem {
+    width: 55%;
+    /* border: 1px solid yellow; */
+    display: flex;
+    align-items:center;
+    justify-content: right;
+
+}
+.arabica, .robosta, .bel {
+    width: 15%;
+    /* border: 1px solid yellow; */
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    /* color: purple; */
+    font-weight: bolder;
+}
+.withmilk {
+    flex-direction: column;
+    gap: 5px;
+}
+.s1 {
+    width: 100%;
+    display: flex;
+    gap: 5px;
+}
+.milkright {
+    width: 50%;
+    height: 7vh;
+    /* border: 1px solid orange; */
+    display: flex;
+    justify-content: space-around;
+    padding: 0 10px;
+}
+.milkleft {
+    width: 50%;
+    height: 7vh;
+    /* border: 1px solid orange; */
+    display: flex;
+    justify-content: space-around;
+    padding: 0 10px;
+
+}
+
+.khat {
+    width: 1px;
+    height: 90%;
+    background: beige;
+}
+.nameitem {
+    width: 80%;
+}
+.price {
+    width: 20%;
+}
