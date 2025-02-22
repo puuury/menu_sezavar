@@ -6,7 +6,6 @@
     align-items: start;
     justify-content: center;
     padding: 5px;
-
         
 }
 .line {
@@ -27,7 +26,7 @@
     gap: 25px;
 }
 .inline2 {
-    font-size: 18px;
+    font-size: 14px;
 }
 .nameitem {
     width: 55%;
@@ -38,13 +37,14 @@
 
 }
 .arabica, .robosta, .bel {
+    font-size: 14px;
     width: 15%;
     /* border: 1px solid yellow; */
     display: flex;
     align-items:center;
     justify-content: center;
     /* color: purple; */
-    font-weight: bolder;
+    /* font-weight: bolder; */
 }
 .withmilk {
     flex-direction: column;
@@ -54,7 +54,7 @@
     width: 100%;
     display: flex;
     gap: 5px;
-    font-size: 10px;
+    font-size: 14px;
 }
 .milkright {
     width: 50%;
@@ -71,6 +71,8 @@
     display: flex;
     justify-content: space-around;
     padding: 0 10px;
+    justify-content: center;
+    align-items: center;
 
 }
 

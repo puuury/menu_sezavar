@@ -82,10 +82,13 @@ body {
     gap: 18px;
     margin-top: 5px;
 }
-.dami  {
+.dami {
     height: 40vh;
 }
-.hotbar {
+.coldbar, .cake {
+    height: 55vh;
+}
+.hotbar , .food {
     height: 130vh;
 }
 .title {
