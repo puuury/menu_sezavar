@@ -9,6 +9,12 @@ body {
     color: beige;
     padding: 8px;
 }
+.wifi{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    font-size: 9px;
+}
 .header {
     width: 100%;
     height: 10vh;
