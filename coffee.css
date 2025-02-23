@@ -63,6 +63,8 @@
     display: flex;
     justify-content: space-around;
     padding: 0 10px;
+    justify-content: center;
+    align-items: center;
 }
 .milkleft {
     width: 50%;
