@@ -91,7 +91,10 @@ body {
 .dami {
     height: 40vh;
 }
-.coldbar, .cake {
+.coldbar {
+    height: 100vh;
+}
+.cake {
     height: 55vh;
 }
 .hotbar , .food {
