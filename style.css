@@ -92,13 +92,16 @@ body {
     height: 40vh;
 }
 .coldbar {
-    height: 100vh;
+    height: 130vh;
 }
 .cake {
     height: 55vh;
 }
-.hotbar , .food {
-    height: 130vh;
+.hotbar {
+    height: 150vh;
+}
+.food {
+    height: 80vh;
 }
 .title {
     font-size: 16px;
