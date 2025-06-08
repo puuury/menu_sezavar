@@ -16,13 +16,22 @@ function processMenuData(menuItems) {
             const itemElement = document.createElement('div');
             itemElement.className = 'menu-item';
             
+
+            const titleWrap = document.createElement('div');
+            titleWrap.className = 'title-wrap';
+            itemElement.append(titleWrap);
+
+            const priceWrap = document.createElement('div');
+            priceWrap.className = 'price-wrap';
+            itemElement.append(priceWrap);
+            
             const titleElement = document.createElement('h3');
             titleElement.textContent = item.title;
-            itemElement.appendChild(titleElement);
+            titleWrap.appendChild(titleElement);
             
             const priceElement = document.createElement('p');
             priceElement.textContent = `${item.price} `;
-            itemElement.appendChild(priceElement);
+            priceWrap.appendChild(priceElement);
             
             section.appendChild(itemElement);
         }
