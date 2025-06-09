@@ -1,39 +1,337 @@
 [
-
-    {
-        "title": "Single Esspersso",
-        "price" : "70",
-        "category" : "coffee"
-    },
-    {
-        "title": "Americano",
-        "price" : "70",
-        "category" : "coffee"
-    },
-    {
-        "title": "Single burger",
-        "price" : "270",
-        "category" : "food"
-    },
-    
-    {
-        "title": "latte",
-        "price" : "70",
-        "category" : "coffee"
-    },
-    {
-        "title": "Single burger",
-        "price" : "270",
-        "category" : "food"
-    },
-    {
-        "title": "Single Esspersso",
-        "price" : "70",
-        "category" : "coffee"
-    },
-    {
-        "title": "Single burger",
-        "price" : "270",
-        "category" : "food"
-    }
+     {
+    "title": "اسپرسو سینگل",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "اسوروووو",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "موکا",
+    "price": "115",
+    "category": "coffee"
+  },
+  {
+    "title": "کارامل ماکیاتو",
+    "price": "115",
+    "category": "coffee"
+  },
+  {
+    "title": "کورتادو",
+    "price": "85",
+    "category": "coffee"
+  },
+  {
+    "title": "کاپوچینو",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "لته",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "موکا",
+    "price": "115",
+    "category": "coffee"
+  },
+  {
+    "title": "کارامل ماکیاتو",
+    "price": "115",
+    "category": "coffee"
+  },
+  {
+    "title": "کورتادو",
+    "price": "85",
+    "category": "coffee"
+  },
+  {
+    "title": "فلت وایت",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "لته شیرعسل",
+    "price": "120",
+    "category": "coffee"
+  },
+  {
+    "title": "یونانی",
+    "price": "80",
+    "category": "coffee"
+  },
+  {
+    "title": "ترک",
+    "price": "65",
+    "category": "coffee"
+  },
+  {
+    "title": "کمکس",
+    "price": "120",
+    "category": "coffee"
+  },
+  {
+    "title": "فرانسه",
+    "price": "95",
+    "category": "coffee"
+  },
+  {
+    "title": "V60",
+    "price": "120",
+    "category": "coffee"
+  },
+  {
+    "title": "دمنوش آرامش",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای سیاه",
+    "price": "50",
+    "category": "hotbar"
+  },
+  {
+    "title": "دمنوش ترکیبی",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "دمنوش عشاق",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "سنبل الطیب",
+    "price": "65",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای ترش",
+    "price": "65",
+    "category": "hotbar"
+  },
+  {
+    "title": "دمنوش جانان",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "دمنوش میوه",
+    "price": "110",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای سبز",
+    "price": "65",
+    "category": "hotbar"
+  },
+  {
+    "title": "گل گاوزبان",
+    "price": "65",
+    "category": "hotbar"
+  },
+  {
+    "title": "سینامون چری",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "پینک چاکلت",
+    "price": "110",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای اینگلیسی",
+    "price": "90",
+    "category": "hotbar"
+  },
+  {
+    "title": "شیرکاکایو",
+    "price": "100",
+    "category": "hotbar"
+  },
+  {
+    "title": "هات چاکلت",
+    "price": "110",
+    "category": "hotbar"
+  },
+  {
+    "title": "وایت چاکلت",
+    "price": "110",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای ماسالا",
+    "price": "100",
+    "category": "hotbar"
+  },
+  {
+    "title": "چای کرک",
+    "price": "110",
+    "category": "hotbar"
+  },
+  {
+    "title": "سینامون چری",
+    "price": "80",
+    "category": "hotbar"
+  },
+  {
+    "title": "شیرپسته زعفران",
+    "price": "100",
+    "category": "hotbar"
+  },
+  {
+    "title": "بیسکویت کارامل",
+    "price": "100",
+    "category": "hotbar"
+  },
+  {
+    "title": "لته بیسکویت",
+    "price": "80",
+    "category": "hotbar"
+  },
+  {
+    "title": "فندق شکلات",
+    "price": "150",
+    "category": "coldbar"
+  },
+  {
+    "title": "بادام زمینی",
+    "price": "150",
+    "category": "coldbar"
+  },
+  {
+    "title": "موزشکلات",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "بری",
+    "price": "150",
+    "category": "coldbar"
+  },
+  {
+    "title": "اسپرسو",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "اسپرسو موز",
+    "price": "170",
+    "category": "coldbar"
+  },
+  {
+    "title": "نسکافه",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "کارامل",
+    "price": "150",
+    "category": "coldbar"
+  },
+  {
+    "title": "توت فرنگی",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "انبه",
+    "price": "150",
+    "category": "coldbar"
+  },
+  {
+    "title": "نوتلا",
+    "price": "165",
+    "category": "coldbar"
+  },
+  {
+    "title": "آیس چاکلت",
+    "price": "110",
+    "category": "coldbar"
+  },
+  {
+    "title": "موهیتو",
+    "price": "120",
+    "category": "coldbar"
+  },
+  {
+    "title": "لیموناد",
+    "price": "110",
+    "category": "coldbar"
+  },
+  {
+    "title": "اسموتی ویولت",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "اسموتی رخو",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "پینک لیموناد",
+    "price": "160",
+    "category": "coldbar"
+  },
+  {
+    "title": "آبمیوه طبیعی",
+    "price": "70",
+    "category": "coldbar"
+  },
+  {
+    "title": "کولارام",
+    "price": "100",
+    "category": "coldbar"
+  },
+  {
+    "title": "کیک هویج گردو",
+    "price": "70",
+    "category": "cake"
+  },
+  {
+    "title": "کیک اسنیکرز",
+    "price": "100",
+    "category": "cake"
+  },
+  {
+    "title": "پای سیب",
+    "price": "60",
+    "category": "cake"
+  },
+  {
+    "title": "دونات",
+    "price": "60",
+    "category": "cake"
+  },
+  {
+    "title": "چیزکیک سن سباستین",
+    "price": "120",
+    "category": "cake"
+  },
+  {
+    "title": "چیز برگر",
+    "price": "320",
+    "category": "food"
+  },
+  {
+    "title": "برگر کلاسیک",
+    "price": "300",
+    "category": "food"
+  },
+  {
+    "title": "ماشروم برگر",
+    "price": "330",
+    "category": "food"
+  },
+  {
+    "title": "املت گوجه",
+    "price": "150",
+    "category": "food"
+  }
 ]

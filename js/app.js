@@ -24,11 +24,11 @@ function processMenuData(menuItems) {
             
             // تعیین رنگ بر اساس زوج/فرد بودن شمارنده دسته
             if (categoryCounters[item.category] % 2 === 0) {
-                itemElement.style.backgroundColor = '#3498db'; // آبی
-                itemElement.style.color = 'white';
+                itemElement.style.backgroundColor = 'var(--blue)'; 
+                // itemElement.style.color = 'white';
             } else {
-                itemElement.style.backgroundColor = '#f1c40f'; // زرد
-                itemElement.style.color = 'black';
+                itemElement.style.backgroundColor = 'var(--pink)'; 
+                // itemElement.style.color = 'white';
             }
             
             // افزایش شمارنده برای این دسته
@@ -48,6 +48,7 @@ function processMenuData(menuItems) {
             
             const priceElement = document.createElement('p');
             priceElement.textContent = `${item.price}`;
+            priceElement.style.color = 'red';
             priceWrap.appendChild(priceElement);
             
             section.appendChild(itemElement);
