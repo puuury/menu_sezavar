@@ -1,6 +1,23 @@
 [
+
     {
         "title": "Single Esspersso",
+        "price" : "70",
+        "category" : "coffee"
+    },
+    {
+        "title": "Americano",
+        "price" : "70",
+        "category" : "coffee"
+    },
+    {
+        "title": "Single burger",
+        "price" : "270",
+        "category" : "food"
+    },
+    
+    {
+        "title": "latte",
         "price" : "70",
         "category" : "coffee"
     },
@@ -10,8 +27,13 @@
         "category" : "food"
     },
     {
-        "title": "Americano",
+        "title": "Single Esspersso",
         "price" : "70",
         "category" : "coffee"
+    },
+    {
+        "title": "Single burger",
+        "price" : "270",
+        "category" : "food"
     }
 ]

@@ -1,0 +1,19 @@
+.menu-item {
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.menu-item.even {
+    background-color: #1be528;
+    color: white;
+}
+
+.menu-item.odd {
+    background-color: #f1c40f;
+    color: black;
+}
+
+.title-wrap, .price-wrap {
+    padding: 5px;
+}
