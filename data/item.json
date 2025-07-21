@@ -11,7 +11,7 @@
   },
   {
     "title": "اسپرسو دبل",
-    "price": "70",
+    "price": "75",
     "category": "coffee"
   },
   {
@@ -20,8 +20,14 @@
     "category": "coffee"
   },
   {
-    "title": "آمریکانو",
-    "price": "80",
+    "title": "اسپرسو ماکیاتو",
+    "price": "75",
+    "category": "coffee"
+  },
+  
+  {
+    "title": " 🧊🧊 آمریکانو",
+    "price": "85",
     "category": "coffee"
   },
   {
@@ -30,18 +36,18 @@
     "category": "coffee"
   },
   {
-    "title": "لته",
-    "price": "95",
+    "title": "🧊🧊 لته",
+    "price": "100",
     "category": "coffee"
   },
   {
-    "title": "موکا",
-    "price": "115",
+    "title": "🧊🧊 موکا",
+    "price": "120",
     "category": "coffee"
   },
   {
-    "title": "کارامل ماکیاتو",
-    "price": "115",
+    "title": " 🧊🧊 کارامل ماکیاتو",
+    "price": "120",
     "category": "coffee"
   },
   {
@@ -61,16 +67,16 @@
   },
   {
     "title": "یونانی",
-    "price": "80",
+    "price": "95",
     "category": "coffee"
   },
   {
     "title": "ترک",
-    "price": "65",
+    "price": "60",
     "category": "coffee"
   },
   {
-    "title": "کمکس",
+    "title": " 🧊🧊 کمکس",
     "price": "120",
     "category": "coffee"
   },
@@ -80,7 +86,7 @@
     "category": "coffee"
   },
   {
-    "title": "V60",
+    "title": " 🧊🧊 V60",
     "price": "120",
     "category": "coffee"
   },
@@ -120,16 +126,6 @@
     "category": "hotbar"
   },
   {
-    "title": "دمنوش میوه",
-    "price": "110",
-    "category": "hotbar"
-  },
-  {
-    "title": "چای سبز",
-    "price": "65",
-    "category": "hotbar"
-  },
-  {
     "title": "گل گاوزبان",
     "price": "65",
     "category": "hotbar"
@@ -145,13 +141,8 @@
     "category": "hotbar"
   },
   {
-    "title": "چای اینگلیسی",
-    "price": "90",
-    "category": "hotbar"
-  },
-  {
     "title": "شیرکاکایو",
-    "price": "100",
+    "price": "110",
     "category": "hotbar"
   },
   {
@@ -181,62 +172,52 @@
   },
   {
     "title": "لته بیسکویت",
-    "price": "80",
+    "price": "90",
     "category": "hotbar"
   },
   {
-    "title": "فندق شکلات",
+    "title": " شیک فندق شکلات",
     "price": "150",
     "category": "coldbar"
   },
   {
-    "title": "بادام زمینی",
+    "title": " شیک بادام زمینی",
     "price": "150",
     "category": "coldbar"
   },
   {
-    "title": "موزشکلات",
+    "title": "شیک موزشکلات",
     "price": "160",
     "category": "coldbar"
   },
   {
-    "title": "بری",
-    "price": "150",
-    "category": "coldbar"
-  },
-  {
-    "title": "اسپرسو",
+    "title": " شیک اسپرسو",
     "price": "160",
     "category": "coldbar"
   },
   {
-    "title": "اسپرسو موز",
+    "title": " شیک اسپرسو موز",
     "price": "170",
     "category": "coldbar"
   },
   {
-    "title": "نسکافه",
+    "title": " شیک نسکافه",
     "price": "160",
     "category": "coldbar"
   },
   {
-    "title": "کارامل",
+    "title": "شیک کارامل",
     "price": "150",
     "category": "coldbar"
   },
   {
-    "title": "توت فرنگی",
+    "title": " شیک توت فرنگی",
     "price": "160",
     "category": "coldbar"
   },
   {
-    "title": "انبه",
+    "title": " شیک انبه ",
     "price": "150",
-    "category": "coldbar"
-  },
-  {
-    "title": "نوتلا",
-    "price": "165",
     "category": "coldbar"
   },
   {
@@ -260,6 +241,16 @@
     "category": "coldbar"
   },
   {
+    "title": " پینک لیموناد",
+    "price": "140",
+    "category": "coldbar"
+  },
+  {
+    "title": " آیس تی ",
+    "price": "80",
+    "category": "coldbar"
+  },
+  {
     "title": "اسموتی ویولت",
     "price": "160",
     "category": "coldbar"
@@ -270,18 +261,13 @@
     "category": "coldbar"
   },
   {
-    "title": "پینک لیموناد",
-    "price": "160",
+    "title": "اسموتی هاوایی",
+    "price": "180",
     "category": "coldbar"
   },
   {
-    "title": "آبمیوه طبیعی",
-    "price": "70",
-    "category": "coldbar"
-  },
-  {
-    "title": "کولارام",
-    "price": "100",
+    "title": "اسموتی استوایی",
+    "price": "180",
     "category": "coldbar"
   },
   {
@@ -297,16 +283,6 @@
   {
     "title": "پای سیب",
     "price": "60",
-    "category": "cake"
-  },
-  {
-    "title": "دونات",
-    "price": "60",
-    "category": "cake"
-  },
-  {
-    "title": "چیزکیک سن سباستین",
-    "price": "120",
     "category": "cake"
   },
   {
