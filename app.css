@@ -1,6 +1,6 @@
 :root {
-    --blue: #051b2700;
-    --pink : #e675e646;
+    --blue: #085f8e4f;
+    --pink : #e414e43a;
     
 }
 .menu-item {
@@ -9,9 +9,9 @@
     align-items: center;
     display:flex;
     justify-content:space-between;
-    gap:1px;
     border-radius: 8px;
     border: 0.5px solid #fff;
+    padding: 1px 10%;
 }
 
 

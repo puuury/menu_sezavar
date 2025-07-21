@@ -1,27 +1,27 @@
 [
-     {
+  {
     "title": "اسپرسو سینگل",
-    "price": "95",
+    "price": "60",
     "category": "coffee"
   },
   {
-    "title": "اسوروووو",
-    "price": "95",
+    "title": "اسپرسو سینگل پریمیوم",
+    "price": "65",
     "category": "coffee"
   },
   {
-    "title": "موکا",
-    "price": "115",
+    "title": "اسپرسو دبل",
+    "price": "70",
     "category": "coffee"
   },
   {
-    "title": "کارامل ماکیاتو",
-    "price": "115",
+    "title": " اسپرسو دبل پریمیوم",
+    "price": "80",
     "category": "coffee"
   },
   {
-    "title": "کورتادو",
-    "price": "85",
+    "title": "آمریکانو",
+    "price": "80",
     "category": "coffee"
   },
   {
@@ -175,16 +175,6 @@
     "category": "hotbar"
   },
   {
-    "title": "سینامون چری",
-    "price": "80",
-    "category": "hotbar"
-  },
-  {
-    "title": "شیرپسته زعفران",
-    "price": "100",
-    "category": "hotbar"
-  },
-  {
     "title": "بیسکویت کارامل",
     "price": "100",
     "category": "hotbar"
@@ -247,6 +237,11 @@
   {
     "title": "نوتلا",
     "price": "165",
+    "category": "coldbar"
+  },
+  {
+    "title": "شیک لوتوس",
+    "price": "150",
     "category": "coldbar"
   },
   {

@@ -9,12 +9,6 @@ body {
     color: beige;
     padding: 8px;
 }
-.wifi{
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    font-size: 9px;
-}
 .header {
     width: 100%;
     height: 10vh;
@@ -37,8 +31,6 @@ body {
     width: 50%;
     height: 100%;
     padding: 5px;
-    /* background: url(img/svg/squid-game-cryptocurrency-squid-seeklogo-removebg-preview.png); */
-    /* object-fit: cover; */
 }
 .pic img {
     width: 90%;
@@ -60,7 +52,7 @@ body {
     z-index: 100;
 }
 .menu .innerBox {
-    width: 20%;
+    width: 25%;
     background: #252525;
     border: 1px solid beige;
     border-radius: 3px;
@@ -83,28 +75,27 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
-    gap: 1px;
-    margin-top: 5px;
+    gap: 0.4em;
+    padding-top: 15px;
 }
 .cafe {
     height: auto;
 }
 .dami {
-    height: 40vh;
+    height: auto;
 }
 .coldbar {
-    height: 130vh;
+    height: auto;
 }
 .cake {
-    height: 55vh;
+    height: auto;
 }
 .hotbar {
     height: auto;
 }
 .food {
-    height: 80vh;
+    height: auto;
 }
 .title {
     font-size: 16px;

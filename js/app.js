@@ -9,29 +9,22 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function processMenuData(menuItems) {
-    const categoryCounters = {};
-
-    menuItems.forEach(item => {
+    menuItems.reduce((categoryCounters, item) => {
         const section = document.getElementById(item.category);
         if (section) {
-            // مقداردهی اولیه شمارنده اگر وجود نداشت
             if (!categoryCounters[item.category]) {
                 categoryCounters[item.category] = 0;
             }
-
             const itemElement = document.createElement('div');
             itemElement.className = 'menu-item';
-            
-            // تعیین رنگ بر اساس زوج/فرد بودن شمارنده دسته
             if (categoryCounters[item.category] % 2 === 0) {
                 itemElement.style.backgroundColor = 'var(--blue)'; 
-                // itemElement.style.color = 'white';
+                itemElement.style.color = 'white';
             } else {
                 itemElement.style.backgroundColor = 'var(--pink)'; 
-                // itemElement.style.color = 'white';
+                itemElement.style.color = 'white';
             }
             
-            // افزایش شمارنده برای این دسته
             categoryCounters[item.category]++;
 
             const titleWrap = document.createElement('div');
@@ -48,10 +41,11 @@ function processMenuData(menuItems) {
             
             const priceElement = document.createElement('p');
             priceElement.textContent = `${item.price}`;
-            priceElement.style.color = 'red';
             priceWrap.appendChild(priceElement);
             
             section.appendChild(itemElement);
         }
-    });
+        
+        return categoryCounters;
+    }, {}); 
 }
